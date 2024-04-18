@@ -1,0 +1,19 @@
+body {
+    background: url(Ocean.png);
+    background-size: auto;
+}
+
+#trailer {
+    
+}
+
+#Oda{
+    margin-left: 350px;
+}
+
+#opis{
+    margin-left: 80px;
+    /*background: linear-gradient(rgb(212, 212, 219), rgba(36, 39, 212, 0.815)); /* Градиент для текста */
+    
+}
+

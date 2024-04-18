@@ -1,0 +1,18 @@
+body {
+    background: url(Seiritey.jpg);
+    background-size: cover;
+}
+
+#trailer {
+    
+}
+
+#Kubo{
+    margin-left: 350px;
+}
+
+#opis{
+    margin-left: 80px;
+    /*background: linear-gradient(rgb(212, 212, 219), rgba(36, 39, 212, 0.815)); /* Градиент для текста */
+    color: rgb(255, 255, 255);
+}

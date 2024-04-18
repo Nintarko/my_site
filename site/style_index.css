@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    background: linear-gradient(rgb(255, 0, 221), rgb(255, 0, 191)); /* Градиент для текста */
+    background: linear-gradient(rgba(150, 63, 138, 0.822), rgb(182, 24, 142)); /* Градиент для текста */
   -webkit-background-clip: text; /* Обрезаем фон по тексту */
   -webkit-text-fill-color: transparent; /* Прозрачный текст */
   font-family: fantasy;
@@ -18,12 +18,12 @@ img {
 }
 
 body {
-    background-color:rgba(107, 43, 226, 0.664);
+    background-color:rgb(95, 62, 156);
 }
 
 h2 {
     text-align: center;
-    background: linear-gradient(rgb(0, 255, 0), rgb(255, 174, 0)); /* Градиент для текста */
+    background: linear-gradient(rgb(34, 31, 177), rgba(48, 50, 167, 0.815)); /* Градиент для текста */
   -webkit-background-clip: text; /* Обрезаем фон по тексту */
   -webkit-text-fill-color: transparent; /* Прозрачный текст */
 }
@@ -34,4 +34,18 @@ p {
   -webkit-background-clip: text; /* Обрезаем фон по тексту */
   -webkit-text-fill-color: transparent; /* Прозрачный текст */
   font-family: fantasy;
+}
+
+#DBZ{
+  text-align: center;
+    background: linear-gradient(rgb(251, 255, 0), rgb(255, 72, 0)); /* Градиент для текста */
+  -webkit-background-clip: text; /* Обрезаем фон по тексту */
+  -webkit-text-fill-color: transparent; /* Прозрачный текст */
+}
+
+#BL{
+  text-align: center;
+    background: linear-gradient(rgb(179, 33, 28), rgb(27, 47, 136)); /* Градиент для текста */
+  -webkit-background-clip: text; /* Обрезаем фон по тексту */
+  -webkit-text-fill-color: transparent; /* Прозрачный текст */
 }
